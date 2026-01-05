@@ -14,5 +14,8 @@ echo "Hello there world";
     <p>
         This is just a test
     </p>
+    <ul>
+        <li>Hello</li>
+    </ul>
 </body>
 </html>
